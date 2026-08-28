@@ -1,0 +1,8 @@
+# NotesFriendly
+
+> Private study companion for CS and BS division students. Share notes, track attendance, chat with classmates, and convert files in-browser. Most content is gated behind a student login.
+
+## Pages
+
+- [Home](/): Landing and sign-in entry point for enrolled students.
+- [Login](/login): Student ID sign-in (CS01–CS61, BS01–BS60).

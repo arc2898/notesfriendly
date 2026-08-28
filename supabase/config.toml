@@ -1,0 +1,10 @@
+project_id = "ebaassrbieukwdhbtujo"
+
+[functions.god-reset-password]
+verify_jwt = false
+
+[functions.seed-users]
+verify_jwt = false
+
+[functions.cleanup-chat-files]
+verify_jwt = false
